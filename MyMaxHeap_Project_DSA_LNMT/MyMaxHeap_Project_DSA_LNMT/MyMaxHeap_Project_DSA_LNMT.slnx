@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MyMaxHeap_Project_DSA_LNMT/MyMaxHeap_Project_DSA_LNMT.vcxproj" Id="b44e9c12-25e9-4f65-972d-7113346fb05a" />
+</Solution>
